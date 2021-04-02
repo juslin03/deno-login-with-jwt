@@ -1,0 +1,8 @@
+{
+    "users": [
+
+        { "username": "juslin", "password": "juslin1234", "jwt": "" },
+        { "username": "david", "password": "david1234", "jwt": "" },
+        { "username": "ebenezer", "password": "ebenezer1234", "jwt": "" }
+    ]
+}
